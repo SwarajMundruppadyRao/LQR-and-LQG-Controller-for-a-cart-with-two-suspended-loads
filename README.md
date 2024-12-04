@@ -74,12 +74,6 @@ Ensure all required MATLAB toolboxes and add-ins are installed before executing 
 
 ---
 
-## Contact
-For any issues or questions, please reach out to Group 26 members:
-- Swarajmr: [GitHub](https://github.com/swarajmr)
-- Suhas99: [GitHub](https://github.com/suhas99)
-- Dotsv: [GitHub](https://github.com/dotsv)
-
 ---
 
 ## License
